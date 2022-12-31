@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @cnapta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="justify">
 
-<!---
-cnapta/cnapta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello There
+      <br>
+        I'm Zrchx, a Student, I like Linux and don't wanna Apples or Windos.
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
+      <br>
+      <b>
+        ~ Dave Steven Melo ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
+
+<br>
+
+<h2></h2><br
